@@ -1,5 +1,5 @@
 # Nginx EC2 Deployment Project
-Project demonstrating EC2 deployment of Nginx with a custom domain via Cloudflare.
+Networking Based Project demonstrating EC2 deployment of Nginx with a custom domain via Cloudflare.
 
 ## Goals
 - Deploy an EC2 instance running Nginx
