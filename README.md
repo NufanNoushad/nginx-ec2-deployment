@@ -17,3 +17,7 @@ Project demonstrating EC2 deployment of Nginx with a custom domain via Cloudflar
 - Nginx webpage successfully running on my custom domain
 - Learned real-world networking, DNS, and server troubleshooting
 
+https://github.com/user-attachments/assets/fdf833f8-2c1e-448b-8927-cb005483213d
+
+
+
